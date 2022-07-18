@@ -24,3 +24,10 @@
 
 - Run `npm test` to jest test results
 
+## Authors
+
+👤 **Shingirai**
+
+- GitHub: [@ShingiraiBhengesa](https://github.com/ShingiraiBhengesa)
+- Twitter: [@bhengesa](https://twitter.com/twitterhandle)
+- LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
