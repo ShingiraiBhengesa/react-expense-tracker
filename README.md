@@ -7,6 +7,11 @@
 - Redux
 - CSS
 
-## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+### Prerequisites
+
+- Code Editor
+- Git installed
+- Node js installed
+
+
